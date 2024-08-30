@@ -4,6 +4,7 @@ from scipy.special import softmax
 import tweepy
 
 # Authenticate to Twitter
+#get the twittr api if you are rich enouch cause you wont able to use this shit without purchasing twitter api (like me)
 consumer_key= "" #@param {type:"string"}
 consumer_secret= "" #@param {type:"string"}
 access_token= "" #@param {type:"string"}
